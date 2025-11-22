@@ -1,4 +1,4 @@
-# Vibe Commerce - Full Stack E-Commerce App
+ E-Commerce App
 
 A complete full-stack e-commerce shopping cart application built with React (frontend), Express.js (backend), and in-memory data storage.
 

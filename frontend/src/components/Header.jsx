@@ -5,7 +5,7 @@ export default function Header({ activeTab, setActiveTab, itemCount }) {
     <header className="header">
       <div className="header-content">
         <div>
-          <h1>Vibe Commerce</h1>
+          <h1>Ecommerce Cart</h1>
           <p>Your favorite tech store</p>
         </div>
         <button className={`cart-btn ${activeTab === "cart" ? "active" : ""}`} onClick={() => setActiveTab("cart")}>
